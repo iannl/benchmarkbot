@@ -1,2 +1,4 @@
-# benchmarkbot
-A command line tool that generates benchmark statistics (run and build time) from various programming languages.
+# BenchmarkBot
+
+## Usage
+Please visit [mOctave/erastosthenes-benchmark](https://github.com/mOctave/eratosthenes-benchmark) for usage instructions.
