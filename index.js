@@ -31,7 +31,7 @@ var fs = require("fs-extra");
 
 var bconf = {
     cycles: 5,
-    exclude: ['iris']
+    exclude: []
 }
 
 if (fs.existsSync(process.cwd() + '/bbconf.json')) {
