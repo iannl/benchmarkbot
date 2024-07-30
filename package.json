@@ -1,0 +1,15 @@
+{
+  "name": "benchmarkbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin":  {
+    "bb":"index.js"
+  },
+  "author": "iannl",
+  "description": "A command line tool that generates benchmark statistics (run and build time) from various programming languages.",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs-extra": "^11.2.0"
+  }
+}
